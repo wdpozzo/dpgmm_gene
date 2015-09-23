@@ -7,7 +7,6 @@ from dpgmm import *
 import copy
 from scipy.misc import logsumexp
 import optparse as op
-import lal
 import multiprocessing as mp
 import copy_reg
 import types
