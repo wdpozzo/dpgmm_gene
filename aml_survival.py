@@ -10,7 +10,6 @@ import optparse as op
 import multiprocessing as mp
 import copy_reg
 import types
-import cumulative
 import matplotlib
 import time
 matplotlib.use("MACOSX")
