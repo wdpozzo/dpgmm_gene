@@ -12,7 +12,7 @@ import copy_reg
 import types
 import matplotlib
 import time
-matplotlib.use("MACOSX")
+matplotlib.use("Agg")
 
 def _pickle_method(m):
     if m.im_self is None:
